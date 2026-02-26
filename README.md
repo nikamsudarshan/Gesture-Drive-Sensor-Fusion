@@ -1,5 +1,6 @@
 
 # Gesture-Drive Vehicle (Sensor Fusion & Telemetry) 🖐️🏎️
+![ ](image.jpg)
 
 ### Overview
 
@@ -46,12 +47,14 @@ The system is split into a wearable transmitter and a mobile receiver, communica
 ### 🛠️ Hardware Requirements
 
 **Transmitter:**
+![ ](glove.jpg)
 
 * 1x Arduino Nano
 * 1x MPU-6050 (6-axis Accelerometer/Gyro)
 * 1x NRF24L01 Wireless Transceiver Module
 
 **Receiver:**
+![ ](car.jpg)
 
 * 1x Arduino Uno
 * 1x NRF24L01 Wireless Transceiver Module
